@@ -1,6 +1,6 @@
 {
     "name": "artif/amazonMarketplace",
-	"version": "dev-master",
+    "version": "1.0.0",
     "type": "library",
     "description": "Amazon Marketplace Web Service PHP Client Library",
     "keywords": ["amazon", "mws", "client", "api", "library"],
