@@ -1,5 +1,5 @@
 {
-    "name": "artif/amazonMarketplace",
+    "name": "artif/amazonmarketplace",
     "type": "library",
     "version": "1.0",
     "description": "Amazon Marketplace Web Service PHP Client Library",
