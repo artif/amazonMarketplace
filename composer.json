@@ -1,6 +1,5 @@
 {
     "name": "artif/amazonMarketplace",
-    "version": "1.0.0",
     "type": "library",
     "description": "Amazon Marketplace Web Service PHP Client Library",
     "keywords": ["amazon", "mws", "client", "api", "library"],
@@ -8,7 +7,7 @@
     "licence": "Apache-2.0",
     "authors": [
         {
-          "name": "Mathias Baumg‰rtner",
+          "name": "Mathias Baumg√§rtner",
           "email": "info@artif.com"
         }
     ],
