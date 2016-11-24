@@ -1,7 +1,6 @@
 {
     "name": "artif/amp",
     "type": "library",
-    "version": "1.0",
     "description": "Amazon Marketplace Web Service PHP Client Library",
     "keywords": ["amazon", "mws", "client", "api", "library"],
     "homepage": "https://artif.com",
